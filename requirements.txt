@@ -1,0 +1,11 @@
+flask
+torch
+torchvision
+transformers
+numpy
+opencv-python
+scikit-learn
+matplotlib
+tensorboard
+Pillow
+seaborn
